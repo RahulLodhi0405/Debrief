@@ -191,16 +191,6 @@ FIREBASE_PRIVATE_KEY=your_private_key
 🌍 Coding Community Features
 🎯 Academic Information
 
-This project was developed under the fulfillment of:
-
-Minor Project – II
-6th Semester
-Department of Artificial Intelligence & Machine Learning (AIML)
-👨‍💻 Developed By
-Rahul Lodhi
-Priyanshu Lohani
-Om Yadav
-❤️ About Debrief
 
 Debrief was developed to help students improve coding consistency, strengthen problem-solving skills, prepare for technical interviews, and simplify DSA learning through an AI-powered modern learning platform.
 
